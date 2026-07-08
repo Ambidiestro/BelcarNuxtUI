@@ -204,7 +204,7 @@
               </div>
 
               <div class="rounded-2xl bg-gray-950 p-4 text-white dark:bg-slate-50 dark:text-slate-950">
-                <div class="flex items-center justify-between text-sm text-white/70">
+                <div class="flex items-center justify-between text-sm text-white/70 dark:text-slate-900">
                   <span>Total a pagar</span>
                   <UIcon
                     name="i-heroicons-credit-card-solid"
